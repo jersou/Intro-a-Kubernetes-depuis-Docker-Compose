@@ -153,135 +153,6 @@
       }
     },
     {
-      "frameId": "frame8011",
-      "title": "Intro",
-      "titleLevel": 0,
-      "notes": "",
-      "timeoutMs": 0,
-      "timeoutEnable": false,
-      "transitionDurationMs": 1000,
-      "showInFrameList": true,
-      "showFrameNumber": false,
-      "layerProperties": {
-        "layer2": {
-          "link": false,
-          "referenceElementId": "rect21871",
-          "outlineElementId": "",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer3": {
-          "link": false,
-          "referenceElementId": "path9756",
-          "outlineElementId": "",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer1": {
-          "link": false,
-          "referenceElementId": "path106511",
-          "outlineElementId": "",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "__sozi_auto__": {
-          "link": false,
-          "referenceElementId": "rect21871",
-          "outlineElementId": "",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        }
-      },
-      "cameraStates": {
-        "layer2": {
-          "cx": 81.25861427399956,
-          "cy": 40.37081774408297,
-          "width": 166.20019044281628,
-          "height": 93.51017232010736,
-          "opacity": 0,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1.0000000000000002,
-          "clipHeightFactor": 1
-        },
-        "layer3": {
-          "cx": 81.25861427399956,
-          "cy": 40.37081774408297,
-          "width": 166.20019044281648,
-          "height": 93.51017232010743,
-          "opacity": 0,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1.0000000000000002,
-          "clipHeightFactor": 1
-        },
-        "layer1": {
-          "cx": 81.25861427399956,
-          "cy": 40.37081774408297,
-          "width": 166.20019044281628,
-          "height": 93.51017232010734,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1.0000000000000002,
-          "clipHeightFactor": 1
-        },
-        "__sozi_auto__": {
-          "cx": 81.25861427399956,
-          "cy": 40.37081774408297,
-          "width": 166.20019044281628,
-          "height": 93.51017232010736,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1.0000000000000002,
-          "clipHeightFactor": 1
-        }
-      },
-      "cameraOffsets": {
-        "layer2": {
-          "deltaX": 1.2586142739995552,
-          "deltaY": -4.6291860706142955,
-          "widthFactor": 1.0387511902676017,
-          "heightFactor": 1.0390019146678595,
-          "deltaAngle": 0
-        },
-        "layer3": {
-          "deltaX": -66.5504067220942,
-          "deltaY": 28.392404162234826,
-          "widthFactor": 7.596479461330665,
-          "heightFactor": 4.6467216775952505,
-          "deltaAngle": 0
-        },
-        "layer1": {
-          "deltaX": -2.108268050219195,
-          "deltaY": -22.092339909725624,
-          "widthFactor": 3.985866502405572,
-          "heightFactor": 4.669825069220643,
-          "deltaAngle": 0
-        },
-        "__sozi_auto__": {
-          "deltaX": 1.2586142739995552,
-          "deltaY": -4.6291860706142955,
-          "widthFactor": 1.0387511902676017,
-          "heightFactor": 1.0390019146678595,
-          "deltaAngle": 0
-        }
-      }
-    },
-    {
       "frameId": "frame3682",
       "title": "orchestrer",
       "titleLevel": 0,
@@ -858,8 +729,8 @@
         "layer3": {
           "cx": 136.17269574729053,
           "cy": 441.21332576638207,
-          "width": 486.4427129947678,
-          "height": 162.46509417060668,
+          "width": 486.4427129947679,
+          "height": 162.4650941706067,
           "opacity": 1,
           "angle": 0,
           "clipped": true,
@@ -906,8 +777,8 @@
         "layer3": {
           "deltaX": -222.65579546364697,
           "deltaY": 145.46460750466332,
-          "widthFactor": 17.997213179196397,
-          "heightFactor": 8.147365570587707,
+          "widthFactor": 17.9972131791964,
+          "heightFactor": 8.14736557058771,
           "deltaAngle": 0
         },
         "layer1": {
@@ -988,7 +859,7 @@
           "cx": 435.65703479548966,
           "cy": 467.0895642726365,
           "width": 563.1182456305684,
-          "height": 66.3439344648573,
+          "height": 59.77898672613966,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -1036,7 +907,7 @@
           "deltaX": 205.67345325252091,
           "deltaY": 214.37014288591774,
           "widthFactor": 13.405804455284192,
-          "heightFactor": 66.3439344648573,
+          "heightFactor": 59.77898672613966,
           "deltaAngle": 0
         },
         "layer1": {
@@ -1117,7 +988,7 @@
           "cx": 834.882500586353,
           "cy": 464.1616632068314,
           "width": 298.63362859581196,
-          "height": 35.18360493252605,
+          "height": 31.702072980813536,
           "opacity": 0,
           "angle": 0,
           "clipped": false,
@@ -1165,7 +1036,7 @@
           "deltaX": 604.8989190433842,
           "deltaY": 211.44224182011266,
           "widthFactor": 7.109384325213026,
-          "heightFactor": 35.18360493252605,
+          "heightFactor": 31.702072980813536,
           "deltaAngle": 0
         },
         "layer1": {
@@ -1516,7 +1387,7 @@
         "layer1": {
           "cx": 318.96143162895254,
           "cy": 272.88179396127344,
-          "width": 112.56074461693237,
+          "width": 112.56074461693238,
           "height": 63.330701352177016,
           "opacity": 1,
           "angle": 0,
@@ -2535,7 +2406,7 @@
         "layer3": {
           "cx": 628.0442475523714,
           "cy": 328.2419134874159,
-          "width": 1355.2112007769383,
+          "width": 1355.2112007769388,
           "height": 762.4881917041326,
           "opacity": 1,
           "angle": 0,
@@ -2607,7 +2478,7 @@
   "elementsToHide": [],
   "customFiles": [],
   "selectedFrames": [
-    "frame5266"
+    "frame6741"
   ],
   "selectedLayers": [
     "layer2",
